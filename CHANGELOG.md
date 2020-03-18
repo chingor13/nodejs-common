@@ -4,6 +4,22 @@
 
 [1]: https://www.npmjs.com/package/@google-cloud/common?activeTab=versions
 
+## [3.0.0](https://www.github.com/googleapis/nodejs-common/compare/v2.4.0...v3.0.0) (2020-03-18)
+
+
+### ⚠ BREAKING CHANGES
+
+* remove support for custom promises (#541)
+
+### Features
+
+* add progress events ([#540](https://www.github.com/googleapis/nodejs-common/issues/540)) ([1834059](https://www.github.com/googleapis/nodejs-common/commit/18340596ecb61018e5427371b9b5a120753ec003))
+
+
+### Bug Fixes
+
+* remove support for custom promises ([#541](https://www.github.com/googleapis/nodejs-common/issues/541)) ([ecf1c16](https://www.github.com/googleapis/nodejs-common/commit/ecf1c167927b609f13dc4fbec1954ff3a2765344))
+
 ## [2.4.0](https://www.github.com/googleapis/nodejs-common/compare/v2.3.0...v2.4.0) (2020-02-25)
 
 
